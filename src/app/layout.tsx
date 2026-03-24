@@ -67,7 +67,7 @@ export default function RootLayout({
   return (
     <html lang="es" className={`${poppins.variable} ${montserrat.variable}`}>
       <head>
-        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+        <link rel="icon" href="/images/logo-icon.png" type="image/png" />
         {/* JSON-LD Structured Data */}
         <script
           type="application/ld+json"
