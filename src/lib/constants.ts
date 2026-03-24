@@ -9,7 +9,7 @@ export const BUSINESS = {
   phoneRaw: "+51991717939",
   email: "informes@medic-scan.com",
   schedule: "Lunes a Sábado: 8:00 AM - 8:00 PM",
-  url: "https://medic-scan.com",
+  url: "https://medicscan360.com",
 } as const;
 
 export const SOCIAL = {

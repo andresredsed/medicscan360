@@ -120,11 +120,11 @@ export default function Footer() {
           </p>
         </div>
         <div className="container-custom flex justify-center gap-4 pb-6 text-xs text-white/40">
-          <a href="#" className="transition-colors hover:text-white/60">
+          <a href="/politica-de-privacidad" className="transition-colors hover:text-white/60">
             Política de Privacidad
           </a>
           <span>|</span>
-          <a href="#" className="transition-colors hover:text-white/60">
+          <a href="/terminos-de-servicio" className="transition-colors hover:text-white/60">
             Términos de Servicio
           </a>
         </div>

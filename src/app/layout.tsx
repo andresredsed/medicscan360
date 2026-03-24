@@ -55,7 +55,7 @@ export const metadata: Metadata = {
     },
   },
   metadataBase: new URL(
-    process.env.NEXT_PUBLIC_SITE_URL || "https://medic-scan.com"
+    process.env.NEXT_PUBLIC_SITE_URL || "https://medicscan360.com"
   ),
 };
 
@@ -67,6 +67,7 @@ export default function RootLayout({
   return (
     <html lang="es" className={`${poppins.variable} ${montserrat.variable}`}>
       <head>
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         {/* JSON-LD Structured Data */}
         <script
           type="application/ld+json"

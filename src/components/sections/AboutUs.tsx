@@ -14,7 +14,7 @@ const values = [
 
 export default function AboutUs() {
   return (
-    <section id="sobre-nosotros" className="section-padding bg-white">
+    <section id="nosotros" className="section-padding bg-white">
       <div className="container-custom">
         <div className="grid items-center gap-12 lg:grid-cols-5">
           {/* Text content */}
