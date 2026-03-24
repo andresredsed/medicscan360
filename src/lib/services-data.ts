@@ -166,7 +166,7 @@ export const SERVICES: ServiceData[] = [
       {
         question: "¿Los rayos X son peligrosos?",
         answer:
-          "La radiación de una radiografía convencional es muy baja. Nuestros equipos digitales utilizan aún menos radiación que los sistemas tradicionales. El beneficio diagn�stico supera ampliamente el riesgo mínimo de la exposición.",
+          "La radiación de una radiografía convencional es muy baja. Nuestros equipos digitales utilizan aún menos radiación que los sistemas tradicionales. El beneficio diagnóstico supera ampliamente el riesgo mínimo de la exposición.",
       },
       {
         question: "¿Puedo realizarme rayos X si estoy embarazada?",
